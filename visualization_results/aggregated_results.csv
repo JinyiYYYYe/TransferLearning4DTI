@@ -1,0 +1,341 @@
+Dataset,TargetType,Target,Methodology,Algorithm,Layer,ACCURACY,MCC
+dataSubset500,gpcr,ionchannel,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,kinase,shallow,svm,Layer 0,0.6610199400035291,0.3181334798789827
+dataSubset500,gpcr,kinase,shallow,svm,Layer 1,0.6613728604199753,0.3189011841465857
+dataSubset500,gpcr,nuclearreceptor,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,protease,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,transporter,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,ionchannel,shallow,rf,Layer 1,0.6393153343920945,0.2779985373633643
+dataSubset500,gpcr,kinase,shallow,rf,Layer 0,0.6334921475207341,0.27094545588382324
+dataSubset500,gpcr,kinase,shallow,rf,Layer 1,0.6421386977236633,0.2848244239327696
+dataSubset500,gpcr,nuclearreceptor,shallow,rf,Layer 1,0.6391388741838715,0.27787747507852284
+dataSubset500,gpcr,protease,shallow,rf,Layer 1,0.6359625904358567,0.2727563042237634
+dataSubset500,gpcr,transporter,shallow,rf,Layer 1,0.6382565731427563,0.27485458586672495
+dataSubset500,gpcr,ionchannel,shallow,gb,Layer 1,0.646814893241574,0.2875899880628591
+dataSubset500,gpcr,kinase,shallow,gb,Layer 0,0.6361390506440797,0.2734957267684497
+dataSubset500,gpcr,kinase,shallow,gb,Layer 1,0.6500794070937004,0.2977804427027213
+dataSubset500,gpcr,nuclearreceptor,shallow,gb,Layer 1,0.6459325922004588,0.2854129377169782
+dataSubset500,gpcr,protease,shallow,gb,Layer 1,0.6456679018881242,0.285049946053376
+dataSubset500,gpcr,transporter,shallow,gb,Layer 1,0.6471678136580201,0.287932175635821
+dataSubset500,gpcr,kinase,fine-tuned,N/A,N/A,0.6404623257455444,0.28206258804819934
+dataSubset500,gpcr,transporter,fine-tuned,N/A,N/A,0.6537850714663843,0.30233277419521987
+dataSubset500,gpcr,nuclearreceptor,fine-tuned,N/A,N/A,0.6597847185459679,0.311568434127221
+dataSubset500,gpcr,protease,fine-tuned,N/A,N/A,0.6527263102170461,0.2999816487876027
+dataSubset500,gpcr,ionchannel,fine-tuned,N/A,N/A,0.6509617081348156,0.29380367346066916
+dataSubset500,gpcr,kinase,freeze,N/A,N/A,0.6360508205399682,0.2618628385498716
+dataSubset500,gpcr,transporter,freeze,N/A,N/A,0.6396682548085407,0.270876780672679
+dataSubset500,gpcr,nuclearreceptor,freeze,N/A,N/A,0.6444326804305629,0.283286259361349
+dataSubset500,gpcr,protease,freeze,N/A,N/A,0.6401094053290983,0.2789530701266421
+dataSubset500,gpcr,ionchannel,freeze,N/A,N/A,0.6373742721016411,0.27542029819123637
+dataSubset500,gpcr,baseline,scratch,N/A,N/A,0.6433739191812247,0.2748055694055216
+dataSubset500,gpcr,ionchannel,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,kinase,shallow,svm,Layer 0,0.6610199400035291,0.3181334798789827
+dataSubset500,gpcr,kinase,shallow,svm,Layer 1,0.6613728604199753,0.3189011841465857
+dataSubset500,gpcr,nuclearreceptor,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,protease,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,transporter,shallow,svm,Layer 1,0.6645491441679902,0.32050585998229114
+dataSubset500,gpcr,ionchannel,shallow,rf,Layer 1,0.6393153343920945,0.2779985373633643
+dataSubset500,gpcr,kinase,shallow,rf,Layer 0,0.6334921475207341,0.27094545588382324
+dataSubset500,gpcr,kinase,shallow,rf,Layer 1,0.6421386977236633,0.2848244239327696
+dataSubset500,gpcr,nuclearreceptor,shallow,rf,Layer 1,0.6391388741838715,0.27787747507852284
+dataSubset500,gpcr,protease,shallow,rf,Layer 1,0.6359625904358567,0.2727563042237634
+dataSubset500,gpcr,transporter,shallow,rf,Layer 1,0.6382565731427563,0.27485458586672495
+dataSubset500,gpcr,ionchannel,shallow,gb,Layer 1,0.646814893241574,0.2875899880628591
+dataSubset500,gpcr,kinase,shallow,gb,Layer 0,0.6361390506440797,0.2734957267684497
+dataSubset500,gpcr,kinase,shallow,gb,Layer 1,0.6500794070937004,0.2977804427027213
+dataSubset500,gpcr,nuclearreceptor,shallow,gb,Layer 1,0.6459325922004588,0.2854129377169782
+dataSubset500,gpcr,protease,shallow,gb,Layer 1,0.6456679018881242,0.285049946053376
+dataSubset500,gpcr,transporter,shallow,gb,Layer 1,0.6471678136580201,0.287932175635821
+dataSubset500,gpcr,kinase,fine-tuned,N/A,N/A,0.6404623257455444,0.28206258804819934
+dataSubset500,gpcr,transporter,fine-tuned,N/A,N/A,0.6537850714663843,0.30233277419521987
+dataSubset500,gpcr,nuclearreceptor,fine-tuned,N/A,N/A,0.6597847185459679,0.311568434127221
+dataSubset500,gpcr,protease,fine-tuned,N/A,N/A,0.6527263102170461,0.2999816487876027
+dataSubset500,gpcr,ionchannel,fine-tuned,N/A,N/A,0.6509617081348156,0.29380367346066916
+dataSubset500,gpcr,kinase,freeze,N/A,N/A,0.6360508205399682,0.2618628385498716
+dataSubset500,gpcr,transporter,freeze,N/A,N/A,0.6396682548085407,0.270876780672679
+dataSubset500,gpcr,nuclearreceptor,freeze,N/A,N/A,0.6444326804305629,0.283286259361349
+dataSubset500,gpcr,protease,freeze,N/A,N/A,0.6401094053290983,0.2789530701266421
+dataSubset500,gpcr,ionchannel,freeze,N/A,N/A,0.6373742721016411,0.27542029819123637
+dataSubset500,gpcr,baseline,scratch,N/A,N/A,0.6433739191812247,0.2748055694055216
+dataSubset500,ionchannel,gpcr,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,kinase,shallow,svm,Layer 0,0.7550595238095238,0.4864497093220371
+dataSubset500,ionchannel,kinase,shallow,svm,Layer 1,0.7464285714285714,0.4735237326715279
+dataSubset500,ionchannel,nuclearreceptor,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,protease,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,transporter,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,gpcr,shallow,rf,Layer 1,0.7470238095238095,0.4442806858790943
+dataSubset500,ionchannel,kinase,shallow,rf,Layer 0,0.7404761904761905,0.4372028285883115
+dataSubset500,ionchannel,kinase,shallow,rf,Layer 1,0.737202380952381,0.4276204882304866
+dataSubset500,ionchannel,nuclearreceptor,shallow,rf,Layer 1,0.7494047619047619,0.44457254211883585
+dataSubset500,ionchannel,protease,shallow,rf,Layer 1,0.7410714285714286,0.4332743728670159
+dataSubset500,ionchannel,transporter,shallow,rf,Layer 1,0.7428571428571429,0.43889562910219715
+dataSubset500,ionchannel,gpcr,shallow,gb,Layer 1,0.7482142857142857,0.4485425471886829
+dataSubset500,ionchannel,kinase,shallow,gb,Layer 0,0.7309523809523809,0.4345143836198099
+dataSubset500,ionchannel,kinase,shallow,gb,Layer 1,0.7428571428571429,0.43172547195521077
+dataSubset500,ionchannel,nuclearreceptor,shallow,gb,Layer 1,0.7491071428571429,0.44917068517936704
+dataSubset500,ionchannel,protease,shallow,gb,Layer 1,0.7419642857142857,0.4350814544912809
+dataSubset500,ionchannel,transporter,shallow,gb,Layer 1,0.743452380952381,0.43742955742513295
+dataSubset500,ionchannel,gpcr,fine-tuned,N/A,N/A,0.756547619047619,0.45023977438352303
+dataSubset500,ionchannel,kinase,fine-tuned,N/A,N/A,0.7452380952380953,0.4406543316848876
+dataSubset500,ionchannel,protease,fine-tuned,N/A,N/A,0.7595238095238095,0.4636976611193563
+dataSubset500,ionchannel,transporter,fine-tuned,N/A,N/A,0.7577380952380952,0.4723155624065087
+dataSubset500,ionchannel,nuclearreceptor,fine-tuned,N/A,N/A,0.7583333333333333,0.47286940040837566
+dataSubset500,ionchannel,protease,freeze,N/A,N/A,0.7327380952380952,0.4450172562602201
+dataSubset500,ionchannel,gpcr,freeze,N/A,N/A,0.7375,0.42242443990134637
+dataSubset500,ionchannel,transporter,freeze,N/A,N/A,0.7235119047619047,0.414329537851386
+dataSubset500,ionchannel,nuclearreceptor,freeze,N/A,N/A,0.737202380952381,0.44685688379706145
+dataSubset500,ionchannel,kinase,freeze,N/A,N/A,0.7205357142857143,0.3881399928663949
+dataSubset500,ionchannel,baseline,scratch,N/A,N/A,0.7220238095238095,0.41298484387403633
+dataSubset500,ionchannel,gpcr,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,kinase,shallow,svm,Layer 0,0.7550595238095238,0.4864497093220371
+dataSubset500,ionchannel,kinase,shallow,svm,Layer 1,0.7464285714285714,0.4735237326715279
+dataSubset500,ionchannel,nuclearreceptor,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,protease,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,transporter,shallow,svm,Layer 1,0.7375,0.46082959363718157
+dataSubset500,ionchannel,gpcr,shallow,rf,Layer 1,0.7470238095238095,0.4442806858790943
+dataSubset500,ionchannel,kinase,shallow,rf,Layer 0,0.7404761904761905,0.4372028285883115
+dataSubset500,ionchannel,kinase,shallow,rf,Layer 1,0.737202380952381,0.4276204882304866
+dataSubset500,ionchannel,nuclearreceptor,shallow,rf,Layer 1,0.7494047619047619,0.44457254211883585
+dataSubset500,ionchannel,protease,shallow,rf,Layer 1,0.7410714285714286,0.4332743728670159
+dataSubset500,ionchannel,transporter,shallow,rf,Layer 1,0.7428571428571429,0.43889562910219715
+dataSubset500,ionchannel,gpcr,shallow,gb,Layer 1,0.7482142857142857,0.4485425471886829
+dataSubset500,ionchannel,kinase,shallow,gb,Layer 0,0.7309523809523809,0.4345143836198099
+dataSubset500,ionchannel,kinase,shallow,gb,Layer 1,0.7428571428571429,0.43172547195521077
+dataSubset500,ionchannel,nuclearreceptor,shallow,gb,Layer 1,0.7491071428571429,0.44917068517936704
+dataSubset500,ionchannel,protease,shallow,gb,Layer 1,0.7419642857142857,0.4350814544912809
+dataSubset500,ionchannel,transporter,shallow,gb,Layer 1,0.743452380952381,0.43742955742513295
+dataSubset500,ionchannel,gpcr,fine-tuned,N/A,N/A,0.756547619047619,0.45023977438352303
+dataSubset500,ionchannel,kinase,fine-tuned,N/A,N/A,0.7452380952380953,0.4406543316848876
+dataSubset500,ionchannel,protease,fine-tuned,N/A,N/A,0.7595238095238095,0.4636976611193563
+dataSubset500,ionchannel,transporter,fine-tuned,N/A,N/A,0.7577380952380952,0.4723155624065087
+dataSubset500,ionchannel,nuclearreceptor,fine-tuned,N/A,N/A,0.7583333333333333,0.47286940040837566
+dataSubset500,ionchannel,protease,freeze,N/A,N/A,0.7327380952380952,0.4450172562602201
+dataSubset500,ionchannel,gpcr,freeze,N/A,N/A,0.7375,0.42242443990134637
+dataSubset500,ionchannel,transporter,freeze,N/A,N/A,0.7235119047619047,0.414329537851386
+dataSubset500,ionchannel,nuclearreceptor,freeze,N/A,N/A,0.737202380952381,0.44685688379706145
+dataSubset500,ionchannel,kinase,freeze,N/A,N/A,0.7205357142857143,0.3881399928663949
+dataSubset500,ionchannel,baseline,scratch,N/A,N/A,0.7220238095238095,0.41298484387403633
+dataSubset500,kinase,gpcr,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,ionchannel,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,nuclearreceptor,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,protease,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,transporter,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,gpcr,shallow,rf,Layer 1,0.6843724549814496,0.36745503944170066
+dataSubset500,kinase,ionchannel,shallow,rf,Layer 1,0.6852773504660212,0.36950228794452494
+dataSubset500,kinase,nuclearreceptor,shallow,rf,Layer 1,0.6864537145959642,0.37211071627440967
+dataSubset500,kinase,protease,shallow,rf,Layer 1,0.68690616233825,0.37462401718019744
+dataSubset500,kinase,transporter,shallow,rf,Layer 1,0.6880825264681929,0.37407152625739265
+dataSubset500,kinase,gpcr,shallow,gb,Layer 1,0.6822007058184779,0.3616076664024046
+dataSubset500,kinase,ionchannel,shallow,gb,Layer 1,0.6822911953669352,0.36178291104260835
+dataSubset500,kinase,nuclearreceptor,shallow,gb,Layer 1,0.6826531535607637,0.36248405502394737
+dataSubset500,kinase,protease,shallow,gb,Layer 1,0.6815672789792779,0.3603285937470969
+dataSubset500,kinase,transporter,shallow,gb,Layer 1,0.6821102162700208,0.361432438267235
+dataSubset500,kinase,ionchannel,fine-tuned,N/A,N/A,0.6858202877567641,0.3725847099471599
+dataSubset500,kinase,gpcr,fine-tuned,N/A,N/A,0.6898018278888788,0.3806551955478641
+dataSubset500,kinase,protease,fine-tuned,N/A,N/A,0.6930594516333364,0.38497891995311984
+dataSubset500,kinase,transporter,fine-tuned,N/A,N/A,0.6938738575694507,0.3870598788249628
+dataSubset500,kinase,nuclearreceptor,fine-tuned,N/A,N/A,0.6941453262148222,0.3912930906028866
+dataSubset500,kinase,nuclearreceptor,freeze,N/A,N/A,0.685186860917564,0.3690267358964964
+dataSubset500,kinase,transporter,freeze,N/A,N/A,0.6772237806533346,0.35177995668246864
+dataSubset500,kinase,protease,freeze,N/A,N/A,0.688715953307393,0.3748664015866301
+dataSubset500,kinase,ionchannel,freeze,N/A,N/A,0.6759569269749344,0.3497534297084507
+dataSubset500,kinase,gpcr,freeze,N/A,N/A,0.6811148312369921,0.3602050988049637
+dataSubset500,kinase,gpcr,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,ionchannel,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,nuclearreceptor,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,protease,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,transporter,shallow,svm,Layer 1,0.7072663107411093,0.41081622778448823
+dataSubset500,kinase,gpcr,shallow,rf,Layer 1,0.6843724549814496,0.36745503944170066
+dataSubset500,kinase,ionchannel,shallow,rf,Layer 1,0.6852773504660212,0.36950228794452494
+dataSubset500,kinase,nuclearreceptor,shallow,rf,Layer 1,0.6864537145959642,0.37211071627440967
+dataSubset500,kinase,protease,shallow,rf,Layer 1,0.68690616233825,0.37462401718019744
+dataSubset500,kinase,transporter,shallow,rf,Layer 1,0.6880825264681929,0.37407152625739265
+dataSubset500,kinase,gpcr,shallow,gb,Layer 1,0.6822007058184779,0.3616076664024046
+dataSubset500,kinase,ionchannel,shallow,gb,Layer 1,0.6822911953669352,0.36178291104260835
+dataSubset500,kinase,nuclearreceptor,shallow,gb,Layer 1,0.6826531535607637,0.36248405502394737
+dataSubset500,kinase,protease,shallow,gb,Layer 1,0.6815672789792779,0.3603285937470969
+dataSubset500,kinase,transporter,shallow,gb,Layer 1,0.6821102162700208,0.361432438267235
+dataSubset500,kinase,ionchannel,fine-tuned,N/A,N/A,0.6858202877567641,0.3725847099471599
+dataSubset500,kinase,gpcr,fine-tuned,N/A,N/A,0.6898018278888788,0.3806551955478641
+dataSubset500,kinase,protease,fine-tuned,N/A,N/A,0.6930594516333364,0.38497891995311984
+dataSubset500,kinase,transporter,fine-tuned,N/A,N/A,0.6938738575694507,0.3870598788249628
+dataSubset500,kinase,nuclearreceptor,fine-tuned,N/A,N/A,0.6941453262148222,0.3912930906028866
+dataSubset500,kinase,nuclearreceptor,freeze,N/A,N/A,0.685186860917564,0.3690267358964964
+dataSubset500,kinase,transporter,freeze,N/A,N/A,0.6772237806533346,0.35177995668246864
+dataSubset500,kinase,protease,freeze,N/A,N/A,0.688715953307393,0.3748664015866301
+dataSubset500,kinase,ionchannel,freeze,N/A,N/A,0.6759569269749344,0.3497534297084507
+dataSubset500,kinase,gpcr,freeze,N/A,N/A,0.6811148312369921,0.3602050988049637
+dataSubset500,nuclearreceptor,gpcr,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,ionchannel,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,kinase,shallow,svm,Layer 0,0.6950535441101479,0.39421858412612104
+dataSubset500,nuclearreceptor,kinase,shallow,svm,Layer 1,0.6991330953595104,0.40246524538938283
+dataSubset500,nuclearreceptor,protease,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,transporter,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,gpcr,shallow,rf,Layer 1,0.691993880673126,0.38345015938897387
+dataSubset500,nuclearreceptor,ionchannel,shallow,rf,Layer 1,0.6899541050484447,0.37932456231352113
+dataSubset500,nuclearreceptor,kinase,shallow,rf,Layer 0,0.6996430392656807,0.39614597751498987
+dataSubset500,nuclearreceptor,kinase,shallow,rf,Layer 1,0.6914839367669556,0.38014651369359637
+dataSubset500,nuclearreceptor,protease,shallow,rf,Layer 1,0.688934217236104,0.37671631278541123
+dataSubset500,nuclearreceptor,transporter,shallow,rf,Layer 1,0.6950535441101479,0.38521774319189345
+dataSubset500,nuclearreceptor,gpcr,shallow,gb,Layer 1,0.6940336562978072,0.3862276312396731
+dataSubset500,nuclearreceptor,ionchannel,shallow,gb,Layer 1,0.6940336562978072,0.38596271429898654
+dataSubset500,nuclearreceptor,kinase,shallow,gb,Layer 0,0.6848546659867415,0.3733034657742291
+dataSubset500,nuclearreceptor,kinase,shallow,gb,Layer 1,0.6838347781744009,0.3718402825243303
+dataSubset500,nuclearreceptor,protease,shallow,gb,Layer 1,0.6925038245792963,0.38299943168185935
+dataSubset500,nuclearreceptor,transporter,shallow,gb,Layer 1,0.6955634880163182,0.38919052267648585
+dataSubset500,nuclearreceptor,transporter,fine-tuned,N/A,N/A,0.7078021417644059,0.40904064727228123
+dataSubset500,nuclearreceptor,ionchannel,fine-tuned,N/A,N/A,0.6853646098929118,0.3738895220734541
+dataSubset500,nuclearreceptor,gpcr,fine-tuned,N/A,N/A,0.6736359000509944,0.35092361249399634
+dataSubset500,nuclearreceptor,protease,fine-tuned,N/A,N/A,0.6710861805201428,0.36357076668514354
+dataSubset500,nuclearreceptor,kinase,fine-tuned,N/A,N/A,0.6848546659867415,0.3692861389830044
+dataSubset500,nuclearreceptor,transporter,freeze,N/A,N/A,0.6935237123916369,0.3866813697749554
+dataSubset500,nuclearreceptor,kinase,freeze,N/A,N/A,0.6782253952065272,0.35278641771027697
+dataSubset500,nuclearreceptor,ionchannel,freeze,N/A,N/A,0.6843447220805712,0.36811680153527215
+dataSubset500,nuclearreceptor,protease,freeze,N/A,N/A,0.6705762366139725,0.3481182033379021
+dataSubset500,nuclearreceptor,gpcr,freeze,N/A,N/A,0.6670066292707802,0.3385788891339383
+dataSubset500,nuclearreceptor,baseline,scratch,N/A,N/A,0.6481387047424784,0.355033820021967
+dataSubset500,nuclearreceptor,gpcr,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,ionchannel,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,kinase,shallow,svm,Layer 0,0.6950535441101479,0.39421858412612104
+dataSubset500,nuclearreceptor,kinase,shallow,svm,Layer 1,0.6991330953595104,0.40246524538938283
+dataSubset500,nuclearreceptor,protease,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,transporter,shallow,svm,Layer 1,0.7072921978582356,0.4169066934572067
+dataSubset500,nuclearreceptor,gpcr,shallow,rf,Layer 1,0.691993880673126,0.38345015938897387
+dataSubset500,nuclearreceptor,ionchannel,shallow,rf,Layer 1,0.6899541050484447,0.37932456231352113
+dataSubset500,nuclearreceptor,kinase,shallow,rf,Layer 0,0.6996430392656807,0.39614597751498987
+dataSubset500,nuclearreceptor,kinase,shallow,rf,Layer 1,0.6914839367669556,0.38014651369359637
+dataSubset500,nuclearreceptor,protease,shallow,rf,Layer 1,0.688934217236104,0.37671631278541123
+dataSubset500,nuclearreceptor,transporter,shallow,rf,Layer 1,0.6950535441101479,0.38521774319189345
+dataSubset500,nuclearreceptor,gpcr,shallow,gb,Layer 1,0.6940336562978072,0.3862276312396731
+dataSubset500,nuclearreceptor,ionchannel,shallow,gb,Layer 1,0.6940336562978072,0.38596271429898654
+dataSubset500,nuclearreceptor,kinase,shallow,gb,Layer 0,0.6848546659867415,0.3733034657742291
+dataSubset500,nuclearreceptor,kinase,shallow,gb,Layer 1,0.6838347781744009,0.3718402825243303
+dataSubset500,nuclearreceptor,protease,shallow,gb,Layer 1,0.6925038245792963,0.38299943168185935
+dataSubset500,nuclearreceptor,transporter,shallow,gb,Layer 1,0.6955634880163182,0.38919052267648585
+dataSubset500,nuclearreceptor,transporter,fine-tuned,N/A,N/A,0.7078021417644059,0.40904064727228123
+dataSubset500,nuclearreceptor,ionchannel,fine-tuned,N/A,N/A,0.6853646098929118,0.3738895220734541
+dataSubset500,nuclearreceptor,gpcr,fine-tuned,N/A,N/A,0.6736359000509944,0.35092361249399634
+dataSubset500,nuclearreceptor,protease,fine-tuned,N/A,N/A,0.6710861805201428,0.36357076668514354
+dataSubset500,nuclearreceptor,kinase,fine-tuned,N/A,N/A,0.6848546659867415,0.3692861389830044
+dataSubset500,nuclearreceptor,transporter,freeze,N/A,N/A,0.6935237123916369,0.3866813697749554
+dataSubset500,nuclearreceptor,kinase,freeze,N/A,N/A,0.6782253952065272,0.35278641771027697
+dataSubset500,nuclearreceptor,ionchannel,freeze,N/A,N/A,0.6843447220805712,0.36811680153527215
+dataSubset500,nuclearreceptor,protease,freeze,N/A,N/A,0.6705762366139725,0.3481182033379021
+dataSubset500,nuclearreceptor,gpcr,freeze,N/A,N/A,0.6670066292707802,0.3385788891339383
+dataSubset500,nuclearreceptor,baseline,scratch,N/A,N/A,0.6481387047424784,0.355033820021967
+dataSubset500,protease,gpcr,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,ionchannel,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,kinase,shallow,svm,Layer 0,0.6851158038147139,0.3805188603381668
+dataSubset500,protease,kinase,shallow,svm,Layer 1,0.6897138964577657,0.3898327839423275
+dataSubset500,protease,nuclearreceptor,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,transporter,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,gpcr,shallow,rf,Layer 1,0.674216621253406,0.34944241485330096
+dataSubset500,protease,ionchannel,shallow,rf,Layer 1,0.6757493188010899,0.349435281603647
+dataSubset500,protease,kinase,shallow,rf,Layer 0,0.674216621253406,0.34809678359251767
+dataSubset500,protease,kinase,shallow,rf,Layer 1,0.6713215258855586,0.3418497029734253
+dataSubset500,protease,nuclearreceptor,shallow,rf,Layer 1,0.6709809264305178,0.34208656987128166
+dataSubset500,protease,transporter,shallow,rf,Layer 1,0.6709809264305178,0.340588053017305
+dataSubset500,protease,gpcr,shallow,gb,Layer 1,0.6803474114441417,0.36684200506669695
+dataSubset500,protease,ionchannel,shallow,gb,Layer 1,0.6811989100817438,0.3685956872613469
+dataSubset500,protease,kinase,shallow,gb,Layer 0,0.6668937329700273,0.3380168279650802
+dataSubset500,protease,kinase,shallow,gb,Layer 1,0.6735354223433242,0.3518749179041214
+dataSubset500,protease,nuclearreceptor,shallow,gb,Layer 1,0.6803474114441417,0.36676166663563625
+dataSubset500,protease,transporter,shallow,gb,Layer 1,0.6800068119891008,0.3662371304366098
+dataSubset500,protease,gpcr,fine-tuned,N/A,N/A,0.6912465940054496,0.3874236264302861
+dataSubset500,protease,kinase,fine-tuned,N/A,N/A,0.6888623978201635,0.37910027108580296
+dataSubset500,protease,transporter,fine-tuned,N/A,N/A,0.698058583106267,0.39704499644651864
+dataSubset500,protease,nuclearreceptor,fine-tuned,N/A,N/A,0.6958446866485014,0.3925591168150158
+dataSubset500,protease,ionchannel,fine-tuned,N/A,N/A,0.6919277929155313,0.3832037806735225
+dataSubset500,protease,gpcr,freeze,N/A,N/A,0.6859673024523161,0.3798433792381717
+dataSubset500,protease,transporter,freeze,N/A,N/A,0.6794959128065395,0.3638258753171098
+dataSubset500,protease,ionchannel,freeze,N/A,N/A,0.680858310626703,0.3654221087278044
+dataSubset500,protease,nuclearreceptor,freeze,N/A,N/A,0.6829019073569482,0.3731690846161047
+dataSubset500,protease,kinase,freeze,N/A,N/A,0.6776226158038147,0.3561540935465268
+dataSubset500,protease,baseline,scratch,N/A,N/A,0.6132493188010899,0.30356061455171723
+dataSubset500,protease,gpcr,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,ionchannel,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,kinase,shallow,svm,Layer 0,0.6851158038147139,0.3805188603381668
+dataSubset500,protease,kinase,shallow,svm,Layer 1,0.6897138964577657,0.3898327839423275
+dataSubset500,protease,nuclearreceptor,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,transporter,shallow,svm,Layer 1,0.6747275204359673,0.3671849484889312
+dataSubset500,protease,gpcr,shallow,rf,Layer 1,0.674216621253406,0.34944241485330096
+dataSubset500,protease,ionchannel,shallow,rf,Layer 1,0.6757493188010899,0.349435281603647
+dataSubset500,protease,kinase,shallow,rf,Layer 0,0.674216621253406,0.34809678359251767
+dataSubset500,protease,kinase,shallow,rf,Layer 1,0.6713215258855586,0.3418497029734253
+dataSubset500,protease,nuclearreceptor,shallow,rf,Layer 1,0.6709809264305178,0.34208656987128166
+dataSubset500,protease,transporter,shallow,rf,Layer 1,0.6709809264305178,0.340588053017305
+dataSubset500,protease,gpcr,shallow,gb,Layer 1,0.6803474114441417,0.36684200506669695
+dataSubset500,protease,ionchannel,shallow,gb,Layer 1,0.6811989100817438,0.3685956872613469
+dataSubset500,protease,kinase,shallow,gb,Layer 0,0.6668937329700273,0.3380168279650802
+dataSubset500,protease,kinase,shallow,gb,Layer 1,0.6735354223433242,0.3518749179041214
+dataSubset500,protease,nuclearreceptor,shallow,gb,Layer 1,0.6803474114441417,0.36676166663563625
+dataSubset500,protease,transporter,shallow,gb,Layer 1,0.6800068119891008,0.3662371304366098
+dataSubset500,protease,gpcr,fine-tuned,N/A,N/A,0.6912465940054496,0.3874236264302861
+dataSubset500,protease,kinase,fine-tuned,N/A,N/A,0.6888623978201635,0.37910027108580296
+dataSubset500,protease,transporter,fine-tuned,N/A,N/A,0.698058583106267,0.39704499644651864
+dataSubset500,protease,nuclearreceptor,fine-tuned,N/A,N/A,0.6958446866485014,0.3925591168150158
+dataSubset500,protease,ionchannel,fine-tuned,N/A,N/A,0.6919277929155313,0.3832037806735225
+dataSubset500,protease,gpcr,freeze,N/A,N/A,0.6859673024523161,0.3798433792381717
+dataSubset500,protease,transporter,freeze,N/A,N/A,0.6794959128065395,0.3638258753171098
+dataSubset500,protease,ionchannel,freeze,N/A,N/A,0.680858310626703,0.3654221087278044
+dataSubset500,protease,nuclearreceptor,freeze,N/A,N/A,0.6829019073569482,0.3731690846161047
+dataSubset500,protease,kinase,freeze,N/A,N/A,0.6776226158038147,0.3561540935465268
+dataSubset500,protease,baseline,scratch,N/A,N/A,0.6132493188010899,0.30356061455171723
+dataSubset500,transporter,gpcr,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,ionchannel,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,kinase,shallow,svm,Layer 0,0.7578419071518193,0.5070745207650976
+dataSubset500,transporter,kinase,shallow,svm,Layer 1,0.7528230865746549,0.5046930200810764
+dataSubset500,transporter,nuclearreceptor,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,protease,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,gpcr,shallow,rf,Layer 1,0.7427854454203262,0.47162792261816333
+dataSubset500,transporter,ionchannel,shallow,rf,Layer 1,0.7471769134253451,0.4830696576840879
+dataSubset500,transporter,kinase,shallow,rf,Layer 0,0.7515683814303639,0.48737775101065967
+dataSubset500,transporter,kinase,shallow,rf,Layer 1,0.7415307402760352,0.46860784449785525
+dataSubset500,transporter,nuclearreceptor,shallow,rf,Layer 1,0.7515683814303639,0.48858528613166624
+dataSubset500,transporter,protease,shallow,rf,Layer 1,0.7396486825595985,0.4644980833190075
+dataSubset500,transporter,gpcr,shallow,gb,Layer 1,0.7421580928481807,0.46804796564394474
+dataSubset500,transporter,ionchannel,shallow,gb,Layer 1,0.7440401505646174,0.4717513905812005
+dataSubset500,transporter,kinase,shallow,gb,Layer 0,0.7396486825595985,0.4653434902214322
+dataSubset500,transporter,kinase,shallow,gb,Layer 1,0.7478042659974906,0.48546081652275996
+dataSubset500,transporter,nuclearreceptor,shallow,gb,Layer 1,0.7440401505646174,0.4717513905812005
+dataSubset500,transporter,protease,shallow,gb,Layer 1,0.7452948557089084,0.4739540493809778
+dataSubset500,transporter,ionchannel,fine-tuned,N/A,N/A,0.739021329987453,0.4758045963353672
+dataSubset500,transporter,protease,fine-tuned,N/A,N/A,0.7409033877038896,0.46074592595912084
+dataSubset500,transporter,gpcr,fine-tuned,N/A,N/A,0.7383939774153074,0.4532959666431785
+dataSubset500,transporter,nuclearreceptor,fine-tuned,N/A,N/A,0.7358845671267252,0.4681147681504418
+dataSubset500,transporter,kinase,fine-tuned,N/A,N/A,0.739021329987453,0.4846708615008179
+dataSubset500,transporter,gpcr,freeze,N/A,N/A,0.7289836888331243,0.4447893676508983
+dataSubset500,transporter,kinase,freeze,N/A,N/A,0.7296110414052698,0.45975453333348126
+dataSubset500,transporter,ionchannel,freeze,N/A,N/A,0.7396486825595985,0.4566457745450593
+dataSubset500,transporter,protease,freeze,N/A,N/A,0.7459222082810539,0.4708454383435432
+dataSubset500,transporter,nuclearreceptor,freeze,N/A,N/A,0.7440401505646174,0.46899090539467864
+dataSubset500,transporter,baseline,scratch,N/A,N/A,0.6994981179422836,0.41719755208894904
+dataSubset500,transporter,gpcr,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,ionchannel,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,kinase,shallow,svm,Layer 0,0.7578419071518193,0.5070745207650976
+dataSubset500,transporter,kinase,shallow,svm,Layer 1,0.7528230865746549,0.5046930200810764
+dataSubset500,transporter,nuclearreceptor,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,protease,shallow,svm,Layer 1,0.7471769134253451,0.49534556927476764
+dataSubset500,transporter,gpcr,shallow,rf,Layer 1,0.7427854454203262,0.47162792261816333
+dataSubset500,transporter,ionchannel,shallow,rf,Layer 1,0.7471769134253451,0.4830696576840879
+dataSubset500,transporter,kinase,shallow,rf,Layer 0,0.7515683814303639,0.48737775101065967
+dataSubset500,transporter,kinase,shallow,rf,Layer 1,0.7415307402760352,0.46860784449785525
+dataSubset500,transporter,nuclearreceptor,shallow,rf,Layer 1,0.7515683814303639,0.48858528613166624
+dataSubset500,transporter,protease,shallow,rf,Layer 1,0.7396486825595985,0.4644980833190075
+dataSubset500,transporter,gpcr,shallow,gb,Layer 1,0.7421580928481807,0.46804796564394474
+dataSubset500,transporter,ionchannel,shallow,gb,Layer 1,0.7440401505646174,0.4717513905812005
+dataSubset500,transporter,kinase,shallow,gb,Layer 0,0.7396486825595985,0.4653434902214322
+dataSubset500,transporter,kinase,shallow,gb,Layer 1,0.7478042659974906,0.48546081652275996
+dataSubset500,transporter,nuclearreceptor,shallow,gb,Layer 1,0.7440401505646174,0.4717513905812005
+dataSubset500,transporter,protease,shallow,gb,Layer 1,0.7452948557089084,0.4739540493809778
+dataSubset500,transporter,ionchannel,fine-tuned,N/A,N/A,0.739021329987453,0.4758045963353672
+dataSubset500,transporter,protease,fine-tuned,N/A,N/A,0.7409033877038896,0.46074592595912084
+dataSubset500,transporter,gpcr,fine-tuned,N/A,N/A,0.7383939774153074,0.4532959666431785
+dataSubset500,transporter,nuclearreceptor,fine-tuned,N/A,N/A,0.7358845671267252,0.4681147681504418
+dataSubset500,transporter,kinase,fine-tuned,N/A,N/A,0.739021329987453,0.4846708615008179
+dataSubset500,transporter,gpcr,freeze,N/A,N/A,0.7289836888331243,0.4447893676508983
+dataSubset500,transporter,kinase,freeze,N/A,N/A,0.7296110414052698,0.45975453333348126
+dataSubset500,transporter,ionchannel,freeze,N/A,N/A,0.7396486825595985,0.4566457745450593
+dataSubset500,transporter,protease,freeze,N/A,N/A,0.7459222082810539,0.4708454383435432
+dataSubset500,transporter,nuclearreceptor,freeze,N/A,N/A,0.7440401505646174,0.46899090539467864
+dataSubset500,transporter,baseline,scratch,N/A,N/A,0.6994981179422836,0.41719755208894904
